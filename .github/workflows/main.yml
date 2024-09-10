@@ -1,28 +1,11 @@
-name: Build and Deploy
-
+name: 🚀 Deploy Changes to cPanel
 on:
   push:
-    branches: [main]
-  workflow_dispatch:
-
+    branches:
+      - main
 jobs:
-  build:
-    name: Build ⛏
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      # Archive the project for deployment
-      - name: Archive production artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: ci4-dist
-          path: .  # Archive the entire project or specify folders/files if needed
-
-  deploy:
-    name: Deploy 🚀
-    needs: build
+  FTP-Deploy-Action:
+    name: FTP-Deploy-Action
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2.1.0
@@ -34,4 +17,3 @@ jobs:
         server: ${{ secrets.FTP_SERVER }}
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        timeout: 60000 # timeout in milliseconds (60 seconds)
