@@ -1,0 +1,517 @@
+CRITICAL - 2023-10-17 05:15:32 --> Invalid file: "pages/signUp.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/LoginController.php(17): view()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\LoginController->signUp()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 05:15:34 --> Invalid file: "pages/signUp.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/LoginController.php(17): view()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\LoginController->signUp()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 05:15:36 --> Invalid file: "pages/signUp.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/LoginController.php(17): view()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\LoginController->signUp()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 05:15:37 --> Invalid file: "pages/signUp.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/LoginController.php(17): view()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\LoginController->signUp()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 05:15:37 --> Invalid file: "pages/signUp.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/LoginController.php(17): view()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\LoginController->signUp()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 05:23:12 --> Invalid file: "pages/signUp.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/LoginController.php(17): view()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\LoginController->signUp()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 05:51:29 --> Invalid file: "pages/signUp.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/LoginController.php(17): view()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\LoginController->signUp()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 05:55:10 --> Invalid file: "pages/signUp.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/LoginController.php(17): view()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\LoginController->signUp()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 05:55:20 --> Invalid file: "pages/signUp.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/LoginController.php(17): view()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\LoginController->signUp()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 06:11:45 --> Unclosed '{' on line 167 does not match ')'
+in APPPATH/Controllers/Home.php on line 185.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(877): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 06:17:51 --> Undefined array key "charity_amount"
+in APPPATH/Views/backend/chadash.php on line 37.
+ 1 APPPATH/Views/backend/chadash.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/rakib/ci4.rakahsan.online/app/Views/backend/chadash.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(187): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 06:21:40 --> Undefined array key "charity_amount"
+in APPPATH/Views/backend/chadash.php on line 37.
+ 1 APPPATH/Views/backend/chadash.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/rakib/ci4.rakahsan.online/app/Views/backend/chadash.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(187): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 06:25:29 --> Undefined variable $rakib
+in APPPATH/Views/backend/chadash.php on line 36.
+ 1 APPPATH/Views/backend/chadash.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/rakib/ci4.rakahsan.online/app/Views/backend/chadash.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(187): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 06:25:50 --> Undefined variable $rakib
+in APPPATH/Views/backend/chadash.php on line 36.
+ 1 APPPATH/Views/backend/chadash.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/rakib/ci4.rakahsan.online/app/Views/backend/chadash.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(187): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 06:25:52 --> Undefined variable $rakib
+in APPPATH/Views/backend/chadash.php on line 36.
+ 1 APPPATH/Views/backend/chadash.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/rakib/ci4.rakahsan.online/app/Views/backend/chadash.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(187): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 06:26:18 --> Undefined variable $rakib
+in APPPATH/Views/backend/chadash.php on line 36.
+ 1 APPPATH/Views/backend/chadash.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/rakib/ci4.rakahsan.online/app/Views/backend/chadash.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(187): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-17 06:29:43 --> mysqli_sql_exception: Unknown column '20' in 'group statement' in /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/rakib/ci4.rakahsan.online/system/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+#4 /home/rakib/ci4.rakahsan.online/system/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/rakib/ci4.rakahsan.online/app/Controllers/Home.php(189): CodeIgniter\Model->countAllResults()
+#6 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(919): App\Controllers\Home->chadash()
+#7 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#8 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/rakib/ci4.rakahsan.online/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-17 06:29:43 --> Unknown column '20' in 'group statement'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/Home.php(189): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-17 06:30:19 --> mysqli_sql_exception: Unknown column '20' in 'group statement' in /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/rakib/ci4.rakahsan.online/system/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+#4 /home/rakib/ci4.rakahsan.online/system/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/rakib/ci4.rakahsan.online/app/Controllers/Home.php(189): CodeIgniter\Model->countAllResults()
+#6 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(919): App\Controllers\Home->chadash()
+#7 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#8 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/rakib/ci4.rakahsan.online/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-17 06:30:19 --> Unknown column '20' in 'group statement'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/Home.php(189): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 06:35:16 --> syntax error, unexpected identifier "charity_id", expecting ")"
+in APPPATH/Controllers/Home.php on line 189.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(877): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-17 06:35:54 --> mysqli_sql_exception: Unknown column '20' in 'group statement' in /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/rakib/ci4.rakahsan.online/system/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+#4 /home/rakib/ci4.rakahsan.online/system/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/rakib/ci4.rakahsan.online/app/Controllers/Home.php(191): CodeIgniter\Model->countAllResults()
+#6 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(919): App\Controllers\Home->chadash()
+#7 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#8 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/rakib/ci4.rakahsan.online/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-17 06:35:54 --> Unknown column '20' in 'group statement'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/Home.php(191): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-17 06:36:15 --> mysqli_sql_exception: Unknown column '20' in 'group statement' in /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/rakib/ci4.rakahsan.online/system/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+#4 /home/rakib/ci4.rakahsan.online/system/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/rakib/ci4.rakahsan.online/app/Controllers/Home.php(191): CodeIgniter\Model->countAllResults()
+#6 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(919): App\Controllers\Home->chadash()
+#7 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#8 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/rakib/ci4.rakahsan.online/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-17 06:36:15 --> Unknown column '20' in 'group statement'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/Home.php(191): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-17 06:37:02 --> mysqli_sql_exception: Unknown column 'charity_id' in 'where clause' in /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/rakib/ci4.rakahsan.online/system/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+#4 /home/rakib/ci4.rakahsan.online/system/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/rakib/ci4.rakahsan.online/app/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+#6 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(919): App\Controllers\Home->chadash()
+#7 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#8 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/rakib/ci4.rakahsan.online/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-17 06:37:02 --> Unknown column 'charity_id' in 'where clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-17 06:37:11 --> mysqli_sql_exception: Unknown column 'charity_id' in 'where clause' in /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/rakib/ci4.rakahsan.online/system/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+#4 /home/rakib/ci4.rakahsan.online/system/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/rakib/ci4.rakahsan.online/app/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+#6 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(919): App\Controllers\Home->chadash()
+#7 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#8 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/rakib/ci4.rakahsan.online/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-17 06:37:11 --> Unknown column 'charity_id' in 'where clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-17 06:38:26 --> mysqli_sql_exception: Unknown column '$all' in 'group statement' in /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/rakib/ci4.rakahsan.online/system/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+#4 /home/rakib/ci4.rakahsan.online/system/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/rakib/ci4.rakahsan.online/app/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+#6 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(919): App\Controllers\Home->chadash()
+#7 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#8 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/rakib/ci4.rakahsan.online/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-17 06:38:26 --> Unknown column '$all' in 'group statement'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-17 06:38:31 --> mysqli_sql_exception: Unknown column '$all' in 'group statement' in /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/rakib/ci4.rakahsan.online/system/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+#4 /home/rakib/ci4.rakahsan.online/system/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/rakib/ci4.rakahsan.online/app/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+#6 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(919): App\Controllers\Home->chadash()
+#7 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#8 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/rakib/ci4.rakahsan.online/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-17 06:38:31 --> Unknown column '$all' in 'group statement'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-17 06:38:55 --> mysqli_sql_exception: Unknown column '$all' in 'group statement' in /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/rakib/ci4.rakahsan.online/system/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+#4 /home/rakib/ci4.rakahsan.online/system/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/rakib/ci4.rakahsan.online/app/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+#6 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(919): App\Controllers\Home->chadash()
+#7 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#8 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/rakib/ci4.rakahsan.online/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-17 06:38:55 --> Unknown column '$all' in 'group statement'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-17 06:38:57 --> mysqli_sql_exception: Unknown column '$all' in 'group statement' in /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/rakib/ci4.rakahsan.online/system/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+#4 /home/rakib/ci4.rakahsan.online/system/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/rakib/ci4.rakahsan.online/app/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+#6 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(919): App\Controllers\Home->chadash()
+#7 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#8 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/rakib/ci4.rakahsan.online/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-17 06:38:57 --> Unknown column '$all' in 'group statement'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 06:39:23 --> Array to string conversion
+in APPPATH/Views/backend/chadash.php on line 52.
+ 1 APPPATH/Views/backend/chadash.php(52): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/rakib/ci4.rakahsan.online/app/Views/backend/chadash.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(188): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 06:39:30 --> Array to string conversion
+in APPPATH/Views/backend/chadash.php on line 52.
+ 1 APPPATH/Views/backend/chadash.php(52): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/rakib/ci4.rakahsan.online/app/Views/backend/chadash.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(188): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 06:40:09 --> Array to string conversion
+in APPPATH/Views/backend/chadash.php on line 52.
+ 1 APPPATH/Views/backend/chadash.php(52): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/rakib/ci4.rakahsan.online/app/Views/backend/chadash.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(188): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-17 06:40:47 --> mysqli_sql_exception: Unknown column '$all' in 'group statement' in /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/rakib/ci4.rakahsan.online/system/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+#4 /home/rakib/ci4.rakahsan.online/system/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/rakib/ci4.rakahsan.online/app/Controllers/Home.php(189): CodeIgniter\Model->countAllResults()
+#6 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(919): App\Controllers\Home->chadash()
+#7 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#8 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/rakib/ci4.rakahsan.online/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-17 06:40:47 --> Unknown column '$all' in 'group statement'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/Home.php(189): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-17 06:41:02 --> mysqli_sql_exception: Unknown column '$all' in 'group statement' in /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/rakib/ci4.rakahsan.online/system/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+#4 /home/rakib/ci4.rakahsan.online/system/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/rakib/ci4.rakahsan.online/app/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+#6 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(919): App\Controllers\Home->chadash()
+#7 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#8 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/rakib/ci4.rakahsan.online/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-17 06:41:02 --> Unknown column '$all' in 'group statement'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 06:41:28 --> syntax error, unexpected token ";"
+in APPPATH/Controllers/Home.php on line 188.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(877): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-17 06:41:45 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '()->get("charity_id")
+) CI_count_all_results' at line 5 in /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/rakib/ci4.rakahsan.online/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/rakib/ci4.rakahsan.online/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/rakib/ci4.rakahsan.online/system/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+#4 /home/rakib/ci4.rakahsan.online/system/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/rakib/ci4.rakahsan.online/app/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+#6 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(919): App\Controllers\Home->chadash()
+#7 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#8 /home/rakib/ci4.rakahsan.online/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/rakib/ci4.rakahsan.online/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-17 06:41:45 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '()->get("charity_id")
+) CI_count_all_results' at line 5
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH/Controllers/Home.php(190): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 06:43:09 --> Array to string conversion
+in APPPATH/Views/backend/chadash.php on line 52.
+ 1 APPPATH/Views/backend/chadash.php(52): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/rakib/ci4.rakahsan.online/app/Views/backend/chadash.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(187): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 06:44:58 --> Undefined array key "charity_amount"
+in APPPATH/Views/backend/chadash.php on line 37.
+ 1 APPPATH/Views/backend/chadash.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/rakib/ci4.rakahsan.online/app/Views/backend/chadash.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(186): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->chadash()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()

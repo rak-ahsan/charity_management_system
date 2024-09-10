@@ -1,0 +1,223 @@
+ERROR - 2023-09-26 03:27:29 --> mysqli_sql_exception: Unknown column 'fullname' in 'field list' in D:\htdocs\codeigniter\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\htdocs\codeigniter\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `us...', 0)
+#1 D:\htdocs\codeigniter\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 D:\htdocs\codeigniter\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 D:\htdocs\codeigniter\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 D:\htdocs\codeigniter\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\htdocs\codeigniter\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\htdocs\codeigniter\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\htdocs\codeigniter\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\htdocs\codeigniter\app\Controllers\LoginController.php(33): CodeIgniter\BaseModel->save(Array)
+#9 D:\htdocs\codeigniter\system\CodeIgniter.php(919): App\Controllers\LoginController->usersignup()
+#10 D:\htdocs\codeigniter\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#11 D:\htdocs\codeigniter\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\htdocs\codeigniter\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\htdocs\codeigniter\system\Commands\Server\rewrite.php(47): require_once('D:\\htdocs\\codei...')
+#14 {main}
+CRITICAL - 2023-09-26 03:27:29 --> Unknown column 'fullname' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `user` (`fullname`, `address`, `email`, `number`, `username`, `password`) VALUES (:fullname:, :address:, :email:, :number:, :username:, :password:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\LoginController.php(33): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->usersignup()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\htdocs\\codeigniter\\public\\index.php')
+CRITICAL - 2023-09-26 03:30:57 --> The route for "LoginController/signUp" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('LoginController/signUp')
+ 2 SYSTEMPATH\Common.php(878): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\LoginController.php(34): redirect('LoginController/signUp')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->usersignup()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\htdocs\\codeigniter\\public\\index.php')
+CRITICAL - 2023-09-26 03:37:04 --> The route for "/login" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('/login')
+ 2 SYSTEMPATH\Common.php(878): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\LoginController.php(34): redirect('/login')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->usersignup()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\htdocs\\codeigniter\\public\\index.php')
+CRITICAL - 2023-09-26 03:53:27 --> The route for "fb.com" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('fb.com')
+ 2 SYSTEMPATH\Common.php(878): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\LoginController.php(34): redirect('fb.com')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->usersignup()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\htdocs\\codeigniter\\public\\index.php')
+CRITICAL - 2023-09-26 03:53:44 --> The route for "www.fb.com" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('www.fb.com')
+ 2 SYSTEMPATH\Common.php(878): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\LoginController.php(34): redirect('www.fb.com')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->usersignup()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\htdocs\\codeigniter\\public\\index.php')
+CRITICAL - 2023-09-26 04:11:04 --> Undefined property: Config\App::$indexPage
+in SYSTEMPATH\HTTP\SiteURI.php on line 96.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: Config\\App::$indexPage', 'D:\\htdocs\\codeigniter\\system\\HTTP\\SiteURI.php', 96)
+ 2 SYSTEMPATH\HTTP\SiteURIFactory.php(222): CodeIgniter\HTTP\SiteURI->__construct(Object(Config\App), 'codeIgniter/public/login', null)
+ 3 SYSTEMPATH\HTTP\SiteURIFactory.php(43): CodeIgniter\HTTP\SiteURIFactory->createURIFromRoutePath('codeIgniter/public/login')
+ 4 SYSTEMPATH\Config\Services.php(798): CodeIgniter\HTTP\SiteURIFactory->createFromGlobals()
+ 5 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::uri(null, false)
+ 6 SYSTEMPATH\Config\BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic('uri', [...])
+ 7 SYSTEMPATH\Config\Services.php(791): CodeIgniter\Config\BaseService::getSharedInstance('uri', null)
+ 8 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::uri()
+ 9 SYSTEMPATH\Config\Services.php(565): CodeIgniter\Config\BaseService::__callStatic('uri', [])
+10 SYSTEMPATH\Config\Services.php(523): CodeIgniter\Config\Services::incomingrequest(Object(Config\App), false)
+11 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::request(Object(Config\App), false)
+12 SYSTEMPATH\Config\BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic('request', [...])
+13 SYSTEMPATH\Config\Services.php(558): CodeIgniter\Config\BaseService::getSharedInstance('request', Object(Config\App))
+14 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::incomingrequest(Object(Config\App))
+15 SYSTEMPATH\Config\Services.php(538): CodeIgniter\Config\BaseService::__callStatic('incomingrequest', [...])
+16 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::createRequest(Object(Config\App))
+17 SYSTEMPATH\CodeIgniter.php(639): CodeIgniter\Config\BaseService::__callStatic('createRequest', [...])
+18 SYSTEMPATH\CodeIgniter.php(347): CodeIgniter\CodeIgniter->getRequestObject()
+19 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-26 04:11:04 --> Uncaught ErrorException: Undefined property: Config\App::$indexPage in D:\htdocs\codeigniter\system\HTTP\SiteURI.php:96
+Stack trace:
+#0 D:\htdocs\codeigniter\system\HTTP\SiteURI.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\htdocs\\codei...', 96)
+#1 D:\htdocs\codeigniter\system\HTTP\SiteURIFactory.php(222): CodeIgniter\HTTP\SiteURI->__construct(Object(Config\App), 'codeIgniter/pub...', NULL)
+#2 D:\htdocs\codeigniter\system\HTTP\SiteURIFactory.php(43): CodeIgniter\HTTP\SiteURIFactory->createURIFromRoutePath('codeIgniter/pub...')
+#3 D:\htdocs\codeigniter\system\Config\Services.php(798): CodeIgniter\HTTP\SiteURIFactory->createFromGlobals()
+#4 D:\htdocs\codeigniter\system\Config\BaseService.php(258): CodeIgniter\Config\Services::uri(NULL, false)
+#5 D:\htdocs\codeigniter\system\Config\BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic('uri', Array)
+#6 D:\htdocs\codeigniter\system\Config\Services.php(791): CodeIgniter\Config\BaseService::getSharedInstance('uri', NULL)
+#7 D:\htdocs\codeigniter\system\Config\BaseService.php(258): CodeIgniter\Config\Services::uri()
+#8 D:\htdocs\codeigniter\system\Config\Services.php(565): CodeIgniter\Config\BaseService::__callStatic('uri', Array)
+#9 D:\htdocs\codeigniter\system\Config\Services.php(523): CodeIgniter\Config\Services::incomingrequest(Object(Config\App), false)
+#10 D:\htdocs\codeigniter\system\Config\BaseService.php(258): CodeIgniter\Config\Services::request(NULL, false)
+#11 D:\htdocs\codeigniter\system\Config\BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic('request', Array)
+#12 D:\htdocs\codeigniter\system\Config\Services.php(519): CodeIgniter\Config\BaseService::getSharedInstance('request', NULL)
+#13 D:\htdocs\codeigniter\system\Config\BaseService.php(258): CodeIgniter\Config\Services::request()
+#14 D:\htdocs\codeigniter\system\Debug\Exceptions.php(135): CodeIgniter\Config\BaseService::__callStatic('request', Array)
+#15 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#16 {main}
+  thrown
+【Previous Exception】
+ErrorException
+Undefined property: Config\App::$indexPage
+#0 D:\htdocs\codeigniter\system\HTTP\SiteURI.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\htdocs\\codei...', 96)
+#1 D:\htdocs\codeigniter\system\HTTP\SiteURIFactory.php(222): CodeIgniter\HTTP\SiteURI->__construct(Object(Config\App), 'codeIgniter/pub...', NULL)
+#2 D:\htdocs\codeigniter\system\HTTP\SiteURIFactory.php(43): CodeIgniter\HTTP\SiteURIFactory->createURIFromRoutePath('codeIgniter/pub...')
+#3 D:\htdocs\codeigniter\system\Config\Services.php(798): CodeIgniter\HTTP\SiteURIFactory->createFromGlobals()
+#4 D:\htdocs\codeigniter\system\Config\BaseService.php(258): CodeIgniter\Config\Services::uri(NULL, false)
+#5 D:\htdocs\codeigniter\system\Config\BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic('uri', Array)
+#6 D:\htdocs\codeigniter\system\Config\Services.php(791): CodeIgniter\Config\BaseService::getSharedInstance('uri', NULL)
+#7 D:\htdocs\codeigniter\system\Config\BaseService.php(258): CodeIgniter\Config\Services::uri()
+#8 D:\htdocs\codeigniter\system\Config\Services.php(565): CodeIgniter\Config\BaseService::__callStatic('uri', Array)
+#9 D:\htdocs\codeigniter\system\Config\Services.php(523): CodeIgniter\Config\Services::incomingrequest(Object(Config\App), false)
+#10 D:\htdocs\codeigniter\system\Config\BaseService.php(258): CodeIgniter\Config\Services::request(Object(Config\App), false)
+#11 D:\htdocs\codeigniter\system\Config\BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic('request', Array)
+#12 D:\htdocs\codeigniter\system\Config\Services.php(558): CodeIgniter\Config\BaseService::getSharedInstance('request', Object(Config\App))
+#13 D:\htdocs\codeigniter\system\Config\BaseService.php(258): CodeIgniter\Config\Services::incomingrequest(Object(Config\App))
+#14 D:\htdocs\codeigniter\system\Config\Services.php(538): CodeIgniter\Config\BaseService::__callStatic('incomingrequest', Array)
+#15 D:\htdocs\codeigniter\system\Config\BaseService.php(258): CodeIgniter\Config\Services::createRequest(Object(Config\App))
+#16 D:\htdocs\codeigniter\system\CodeIgniter.php(639): CodeIgniter\Config\BaseService::__callStatic('createRequest', Array)
+#17 D:\htdocs\codeigniter\system\CodeIgniter.php(347): CodeIgniter\CodeIgniter->getRequestObject()
+#18 D:\htdocs\codeigniter\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#19 {main}
+in SYSTEMPATH\HTTP\SiteURI.php on line 96.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-09-26 04:13:23 --> The route for "/login" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('/login')
+ 2 SYSTEMPATH\Common.php(878): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\LoginController.php(34): redirect('/login')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->usersignup()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\htdocs\\codeigniter\\public\\index.php')
+INFO - 2023-09-26 06:35:32 --> REDIRECTED ROUTE at http://localhost/codeIgniter/%5CApp%5CControllers%5CLoginController::login
+CRITICAL - 2023-09-26 06:57:08 --> Unsupported operand types: CodeIgniter\Router\RouteCollection * int
+in APPPATH\Config\Routes.php on line 16.
+ 1 SYSTEMPATH\Router\RouteCollection.php(339): require()
+ 2 SYSTEMPATH\CodeIgniter.php(787): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-26 06:57:08 --> Unsupported operand types: CodeIgniter\Router\RouteCollection * int
+in APPPATH\Config\Routes.php on line 16.
+ 1 SYSTEMPATH\Router\RouteCollection.php(339): require()
+ 2 SYSTEMPATH\CodeIgniter.php(787): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-26 06:58:22 --> Unsupported operand types: CodeIgniter\Router\RouteCollection * int
+in APPPATH\Config\Routes.php on line 16.
+ 1 SYSTEMPATH\Router\RouteCollection.php(339): require()
+ 2 SYSTEMPATH\CodeIgniter.php(787): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-26 06:58:36 --> Unsupported operand types: CodeIgniter\Router\RouteCollection * int
+in APPPATH\Config\Routes.php on line 11.
+ 1 SYSTEMPATH\Router\RouteCollection.php(339): require()
+ 2 SYSTEMPATH\CodeIgniter.php(787): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-26 06:58:37 --> Unsupported operand types: CodeIgniter\Router\RouteCollection * int
+in APPPATH\Config\Routes.php on line 11.
+ 1 SYSTEMPATH\Router\RouteCollection.php(339): require()
+ 2 SYSTEMPATH\CodeIgniter.php(787): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-26 06:58:37 --> Unsupported operand types: CodeIgniter\Router\RouteCollection * int
+in APPPATH\Config\Routes.php on line 11.
+ 1 SYSTEMPATH\Router\RouteCollection.php(339): require()
+ 2 SYSTEMPATH\CodeIgniter.php(787): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-26 06:58:37 --> Unsupported operand types: CodeIgniter\Router\RouteCollection * int
+in APPPATH\Config\Routes.php on line 11.
+ 1 SYSTEMPATH\Router\RouteCollection.php(339): require()
+ 2 SYSTEMPATH\CodeIgniter.php(787): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-26 06:59:24 --> The route for "profile" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('profile')
+ 2 SYSTEMPATH\Common.php(878): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\LoginController.php(34): redirect('profile')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->usersignup()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-26 06:59:24 --> The route for "profile" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('profile')
+ 2 SYSTEMPATH\Common.php(878): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\LoginController.php(34): redirect('profile')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->usersignup()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-26 06:59:24 --> The route for "profile" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('profile')
+ 2 SYSTEMPATH\Common.php(878): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\LoginController.php(34): redirect('profile')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->usersignup()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
