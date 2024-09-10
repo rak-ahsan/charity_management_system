@@ -32,10 +32,10 @@ jobs:
         with: 
           name: dist
           path: dist
-      - name: Sync files to hosting
-        uses: SamKirkland/FTP-Deploy-Action@4.0.0
-       with:
-        server: ${{ secrets.FTP_SERVER }}
-        username: ${{ secrets.FTP_USERNAME }}
-        password: ${{ secrets.FTP_PASSWORD }}
-        timeout: 60000 # timeout in milliseconds (60 seconds)
+      - name: FTP-Deploy-Action
+        uses: SamKirkland/FTP-Deploy-Action@4.3.3
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+
