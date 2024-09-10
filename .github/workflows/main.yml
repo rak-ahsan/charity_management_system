@@ -17,4 +17,4 @@ jobs:
         server: ${{ secrets.FTP_SERVER }}
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        timeout:
+        timeout: 60000 # timeout in milliseconds (60 seconds)
